@@ -109,8 +109,8 @@ A detection is counted as a **True Positive (TP)** only if its IoU with a ground
 
 ```
 .
-├── Image_Processing_Code.m        # Main MATLAB script (all detectors + evaluation)
-├── Image_Processing_Project.pdf   # Full project report with figures and references
+├── vehicle_detection_comparison.m  # Main MATLAB script (all detectors + evaluation)
+├── vehicle_detection_report.pdf    # Full project report with figures and references
 ├── README.md
 └── LICENSE
 ```
